@@ -1,5 +1,5 @@
 # 💫 About Me:
-STUDENT and SOFTWARE ENGINEER<br>LOVE FRONT-END development<br>curious coder<br>LEARN AS MUCH AS I CAN !<br>
+I Do Software Development <br> DSA and Web Development <br> JAVA , Python , JavaScript , PHP , ReactJS <br> MCA Graduation in 2023<br>
 
 
 ## 🌐 Socials:
