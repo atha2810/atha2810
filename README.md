@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Atharva Lakhamade</h1>
+<h1 align="center">#Hi 👋, I'm Atharva Lakhamade</h1>
 <h3 align="center"> A frontend enthusiast diving deep into the MERN (MongoDB, Express.js, React, Node.js) stack. I'm all about creating smooth user experiences and robust web apps, with a knack for tackling data structures and algorithms. My code is like a well-crafted story—clean, understandable, and engaging, whether it's for a slick UI or a rock-solid backend. While I'm hooked on frontend and MERN, I'm also a tech explorer, always on the lookout for the next big thing. Behind every line of code is a real person, passionate and ready to bring their A-game to every project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atha2819&label=Profile%20views&color=0e75b6&style=flat" alt="atha2819" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html,css,java,js,reactjs**
 
-- 📫 How to reach me **atharva19510@gmail.com**
+- 📫 How to reach me **8855976533**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
