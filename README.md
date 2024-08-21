@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/atharvalk" target="blank"><img src="https://img.shields.io/twitter/follow/atharvalk?logo=twitter&style=for-the-badge" alt="atharvalk" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **ReadRight a MERN app to download Ebooks**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Html,css,java,js,reactjs**
+- 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **8855976533**
+- 📫 How to reach me **CALL : 8855976533**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
